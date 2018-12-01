@@ -21,9 +21,7 @@ Please install
      - HTML, CSS, Javascript, React -
      - Windows, Ubuntu -
 
-#### hosting
-
-### Deploy
+#### Deploy
 
 Using yarn then deploy
 
