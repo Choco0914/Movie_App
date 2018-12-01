@@ -2,6 +2,14 @@
 
 Source for React JS Fundamentals Course on Nomad Academy
 
+## What the movie-app can do
+
+List up the most downloaded movies in order by calling the torrent api
+
+-Using this api-
+
+https://yts.am/api
+
 ## Requirements
 
 Please install
@@ -12,8 +20,8 @@ Please install
 
 #### using languages, operating system
 
-    ### - HTML, CSS, Javascript, React -
-    ### - Windows, Ubuntu -
+     - HTML, CSS, Javascript, React -
+     - Windows, Ubuntu -
 
 #### hosting
 
