@@ -1,7 +1,5 @@
 # Movie_App
 
-Source for React JS Fundamentals Course on Nomad Academy
-
 ## What the movie-app can do
 
 List up the most downloaded movies in order by calling the torrent api
